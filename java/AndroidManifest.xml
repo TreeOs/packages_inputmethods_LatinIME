@@ -96,7 +96,7 @@
         </activity>
 
         <activity android:name=".spellcheck.SpellCheckerSettingsActivity"
-                  android:theme="@style/platformSettingsTheme"
+                  android:theme="@android:style/Theme.Material.Dialog.Dark"
                   android:label="@string/android_spell_checker_settings">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
