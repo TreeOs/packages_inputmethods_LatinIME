@@ -19,8 +19,8 @@
 -->
 
 <resources xmlns:android="http://schemas.android.com/apk/res/android">
-    <style name="platformActivityTheme" parent="@android:style/Theme.DeviceDefault.Light" />
-    <style name="platformSettingsTheme" parent="android:Theme.Material.DarkActionBar">
+    <style name="platformActivityTheme" parent="@android:style/Theme.DeviceDefault" />
+    <style name="platformSettingsTheme" parent="android:Theme.Material">
       <!-- Used by the ActionBar -->
       <item name="android:colorPrimary">@color/theme_primary</item>
       <!-- Used by the StatusBar -->
