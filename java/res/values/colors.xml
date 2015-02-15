@@ -54,7 +54,7 @@
     <color name="gesture_trail_color_lxx_light">#009688</color>
     <color name="sliding_key_input_preview_color_lxx_light">#B34DB6AC</color>
     <color name="key_background_lxx_light">#80000000</color>
-    <color name="key_background_pressed_lxx_light">#26424242</color>
+    <color name="key_background_pressed_lxx_light">#80000000</color>
     <color name="suggested_word_background_selected_lxx_light">#80000000</color>
     <color name="gesture_floating_preview_color_lxx_light">#E6ECEFF1</color>
     <color name="emoji_tab_page_indicator_background_lxx_light">#96009688</color>
